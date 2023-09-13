@@ -1,1 +1,2 @@
 # BHARAT_INTERN_Netflixpage
+A Netflix page clone project created with HTML, CSS, and JavaScript is a web application that replicates the look and feel of the popular streaming service's homepage. It uses HTML for content structure, CSS for styling to mimic the Netflix interface, and JavaScript for interactive features such as dynamic carousels, navigation, and potentially even video playback. It serves as a learning exercise or a fun way to practice web development skills by emulating a well-known website.
